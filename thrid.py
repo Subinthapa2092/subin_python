@@ -1,0 +1,1 @@
+print("Subin Thapa is a Good Student")
